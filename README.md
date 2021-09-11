@@ -1,8 +1,7 @@
 Hierarchical State Machine for Unity. Most likely I will rewrite it multiple times in the future but for now it suits my needs.
 
 ### TODO
-- [ ] Detailed guide
-- [x] Git Package
+- [ ] Rewrite everything
 
 ## How to Install
 ### Git Installation
