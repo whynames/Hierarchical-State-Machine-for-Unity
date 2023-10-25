@@ -1,4 +1,5 @@
 Hierarchical State Machine for Unity. Most likely I will rewrite it multiple times in the future but for now it suits my needs.
+### There is no change in this fork yet
 
 ### TODO
 - [ ] Rewrite everything
